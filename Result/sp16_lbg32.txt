@@ -1,0 +1,288 @@
+>>p225_001.wav
+result p225
+>>p225_002.wav
+result p227
+>>p225_003.wav
+result p227
+>>p225_004.wav
+result p237
+>>p225_005.wav
+result p237
+>>p225_006.wav
+result p237
+>>p225_007.wav
+result p227
+>>p225_008.wav
+result p232
+>>p225_009.wav
+result p237
+>>p226_001.wav
+result p226
+>>p226_002.wav
+result p227
+>>p226_003.wav
+result p227
+>>p226_004.wav
+result p227
+>>p226_005.wav
+result p226
+>>p226_006.wav
+result p237
+>>p226_007.wav
+result p227
+>>p226_008.wav
+result p237
+>>p226_009.wav
+result p227
+>>p227_001.wav
+result p227
+>>p227_002.wav
+result p227
+>>p227_003.wav
+result p227
+>>p227_004.wav
+result p227
+>>p227_005.wav
+result p227
+>>p227_006.wav
+result p227
+>>p227_007.wav
+result p232
+>>p227_008.wav
+result p227
+>>p227_009.wav
+result p227
+>>p228_001.wav
+result p228
+>>p228_002.wav
+result p241
+>>p228_003.wav
+result p228
+>>p228_004.wav
+result p229
+>>p228_005.wav
+result p228
+>>p228_006.wav
+result p228
+>>p228_007.wav
+result p227
+>>p228_008.wav
+result p228
+>>p228_009.wav
+result p227
+>>p229_001.wav
+result p229
+>>p229_002.wav
+result p229
+>>p229_003.wav
+result p229
+>>p229_004.wav
+result p229
+>>p229_005.wav
+result p229
+>>p229_006.wav
+result p229
+>>p229_007.wav
+result p229
+>>p229_008.wav
+result p229
+>>p229_009.wav
+result p229
+>>p230_001.wav
+result p230
+>>p230_002.wav
+result p232
+>>p230_003.wav
+result p232
+>>p230_004.wav
+result p229
+>>p230_005.wav
+result p228
+>>p230_006.wav
+result p229
+>>p230_007.wav
+result p229
+>>p230_008.wav
+result p229
+>>p230_009.wav
+result p227
+>>p231_001.wav
+result p231
+>>p231_002.wav
+result p231
+>>p231_003.wav
+result p239
+>>p231_004.wav
+result p231
+>>p231_005.wav
+result p232
+>>p231_006.wav
+result p229
+>>p231_007.wav
+result p232
+>>p231_008.wav
+result p232
+>>p231_009.wav
+result p231
+>>p232_001.wav
+result p232
+>>p232_002.wav
+result p232
+>>p232_003.wav
+result p232
+>>p232_004.wav
+result p227
+>>p232_005.wav
+result p232
+>>p232_006.wav
+result p232
+>>p232_007.wav
+result p232
+>>p232_008.wav
+result p232
+>>p232_009.wav
+result p232
+>>p233_001.wav
+result p233
+>>p233_002.wav
+result p229
+>>p233_003.wav
+result p229
+>>p233_004.wav
+result p233
+>>p233_005.wav
+result p239
+>>p233_006.wav
+result p234
+>>p233_007.wav
+result p239
+>>p233_008.wav
+result p233
+>>p233_009.wav
+result p233
+>>p234_001.wav
+result p234
+>>p234_002.wav
+result p234
+>>p234_003.wav
+result p227
+>>p234_004.wav
+result p234
+>>p234_005.wav
+result p234
+>>p234_006.wav
+result p232
+>>p234_007.wav
+result p234
+>>p234_008.wav
+result p229
+>>p234_009.wav
+result p234
+>>p235_001.wav
+result p235
+>>p235_002.wav
+result p235
+>>p235_003.wav
+result p235
+>>p235_004.wav
+result p235
+>>p235_005.wav
+result p235
+>>p235_006.wav
+result p235
+>>p235_007.wav
+result p235
+>>p235_008.wav
+result p235
+>>p235_009.wav
+result p235
+>>p237_001.wav
+result p237
+>>p237_002.wav
+result p237
+>>p237_003.wav
+result p237
+>>p237_004.wav
+result p237
+>>p237_005.wav
+result p237
+>>p237_006.wav
+result p237
+>>p237_007.wav
+result p237
+>>p237_008.wav
+result p237
+>>p237_009.wav
+result p237
+>>p238_001.wav
+result p238
+>>p238_002.wav
+result p227
+>>p238_003.wav
+result p229
+>>p238_004.wav
+result p229
+>>p238_005.wav
+result p229
+>>p238_006.wav
+result p229
+>>p238_007.wav
+result p229
+>>p238_008.wav
+result p229
+>>p238_009.wav
+result p229
+>>p239_001.wav
+result p239
+>>p239_002.wav
+result p239
+>>p239_003.wav
+result p239
+>>p239_004.wav
+result p239
+>>p239_005.wav
+result p239
+>>p239_006.wav
+result p239
+>>p239_007.wav
+result p239
+>>p239_008.wav
+result p239
+>>p239_009.wav
+result p229
+>>p240_001.wav
+result p240
+>>p240_002.wav
+result p229
+>>p240_003.wav
+result p229
+>>p240_004.wav
+result p229
+>>p240_005.wav
+result p239
+>>p240_006.wav
+result p229
+>>p240_007.wav
+result p239
+>>p240_008.wav
+result p240
+>>p240_009.wav
+result p232
+>>p241_001.wav
+result p241
+>>p241_002.wav
+result p237
+>>p241_003.wav
+result p241
+>>p241_004.wav
+result p241
+>>p241_005.wav
+result p241
+>>p241_006.wav
+result p241
+>>p241_007.wav
+result p241
+>>p241_008.wav
+result p241
+>>p241_009.wav
+result p241

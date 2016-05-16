@@ -1,0 +1,1165 @@
+>>p225_001.wav
+result p225
+>>p225_002.wav
+result p271
+>>p225_003.wav
+result p271
+>>p225_004.wav
+result p276
+>>p225_005.wav
+result p285
+>>p225_006.wav
+result p271
+>>p225_007.wav
+result p271
+>>p225_008.wav
+result p271
+>>p225_009.wav
+result p271
+>>p226_001.wav
+result p226
+>>p226_002.wav
+result p227
+>>p226_003.wav
+result p276
+>>p226_004.wav
+result p227
+>>p226_005.wav
+result p276
+>>p226_006.wav
+result p271
+>>p226_007.wav
+result p271
+>>p226_008.wav
+result p249
+>>p226_009.wav
+result p263
+>>p227_001.wav
+result p227
+>>p227_002.wav
+result p227
+>>p227_003.wav
+result p227
+>>p227_004.wav
+result p227
+>>p227_005.wav
+result p227
+>>p227_006.wav
+result p227
+>>p227_007.wav
+result p232
+>>p227_008.wav
+result p271
+>>p227_009.wav
+result p227
+>>p228_001.wav
+result p228
+>>p228_002.wav
+result p268
+>>p228_003.wav
+result p268
+>>p228_004.wav
+result p268
+>>p228_005.wav
+result p228
+>>p228_006.wav
+result p268
+>>p228_007.wav
+result p268
+>>p228_008.wav
+
+
+>>p229_001.wav
+result p229
+>>p229_002.wav
+result p268
+>>p229_003.wav
+result p229
+>>p229_004.wav
+result p268
+>>p229_005.wav
+result p229
+>>p229_006.wav
+result p268
+>>p229_007.wav
+result p229
+>>p229_008.wav
+result p229
+>>p229_009.wav
+result p229
+>>p230_001.wav
+result p230
+>>p230_002.wav
+result p268
+>>p230_003.wav
+result p271
+>>p230_004.wav
+result p229
+>>p230_005.wav
+result p271
+>>p230_006.wav
+result p268
+>>p230_007.wav
+result p268
+>>p230_008.wav
+result p249
+>>p230_009.wav
+result p271
+>>p231_001.wav
+result p231
+>>p231_002.wav
+result p268
+>>p231_003.wav
+result p268
+>>p231_004.wav
+result p268
+>>p231_005.wav
+result p268
+>>p231_006.wav
+result p268
+>>p231_002.wav
+result p268
+>>p231_003.wav
+result p268
+>>p231_004.wav
+result p268
+>>p231_005.wav
+result p268
+>>p231_006.wav
+result p268
+>>p231_007.wav
+result p268
+>>p231_008.wav
+result p249
+>>p231_009.wav
+result p268
+>>p232_001.wav
+result p232
+>>p232_002.wav
+result p232
+>>p232_003.wav
+result p271
+>>p232_004.wav
+result p227
+>>p232_005.wav
+result p232
+>>p232_006.wav
+result p232
+>>p232_007.wav
+result p232
+>>p232_008.wav
+result p232
+>>p232_009.wav
+result p232
+>>p233_001.wav
+result p233
+>>p233_002.wav
+result p268
+>>p233_003.wav
+result p275
+>>p233_004.wav
+result p233
+>>p233_005.wav
+result p283
+>>p233_006.wav
+result p255
+>>p233_007.wav
+result p268
+>>p233_008.wav
+result p283
+>>p233_009.wav
+result p233
+>>p234_001.wav
+result p234
+>>p234_002.wav
+result p234
+>>p234_003.wav
+result p227
+>>p234_004.wav
+result p234
+>>p234_005.wav
+result p264
+>>p234_006.wav
+result p268
+>>p234_007.wav
+result p234
+>>p234_008.wav
+result p229
+>>p234_009.wav
+result p268
+>>p235_001.wav
+result p235
+>>p235_002.wav
+result p271
+>>p235_003.wav
+result p235
+>>p235_004.wav
+result p235
+>>p235_005.wav
+result p271
+>>p235_006.wav
+result p271
+>>p235_007.wav
+result p235
+>>p235_008.wav
+result p235
+>>p235_009.wav
+result p235
+>>p236_001.wav
+result p268
+>>p236_002.wav
+result p268
+>>p236_003.wav
+result p268
+>>p236_004.wav
+result p226
+>>p236_005.wav
+result p227
+>>p236_006.wav
+result p227
+>>p236_007.wav
+result p227
+>>p236_008.wav
+result p268
+>>p236_009.wav
+result p268
+>>p237_001.wav
+result p237
+>>p237_002.wav
+result p237
+>>p237_003.wav
+result p237
+>>p237_004.wav
+result p237
+>>p237_005.wav
+result p237
+>>p237_006.wav
+result p237
+>>p237_007.wav
+result p237
+>>p237_008.wav
+result p237
+>>p237_009.wav
+result p237
+>>p238_001.wav
+result p238
+>>p238_002.wav
+result p268
+>>p238_003.wav
+result p249
+>>p238_004.wav
+result p268
+>>p238_005.wav
+result p268
+>>p238_006.wav
+result p249
+>>p238_007.wav
+result p249
+>>p238_008.wav
+result p249
+>>p238_009.wav
+result p249
+>>p239_001.wav
+result p239
+>>p239_002.wav
+result p268
+>>p239_003.wav
+result p239
+>>p239_004.wav
+result p268
+>>p239_005.wav
+result p239
+>>p239_006.wav
+result p268
+>>p239_007.wav
+result p239
+>>p239_008.wav
+result p249
+>>p239_009.wav
+result p255
+>>p240_001.wav
+result p240
+>>p240_002.wav
+result p268
+>>p240_003.wav
+result p268
+>>p240_004.wav
+result p268
+>>p240_005.wav
+result p268
+>>p240_006.wav
+result p268
+>>p240_007.wav
+result p268
+>>p240_008.wav
+result p268
+>>p240_009.wav
+result p232
+>>p241_001.wav
+result p241
+>>p241_002.wav
+result p276
+>>p241_003.wav
+result p241
+>>p241_004.wav
+result p241
+>>p241_005.wav
+result p241
+>>p241_006.wav
+result p285
+>>p241_007.wav
+result p241
+>>p241_008.wav
+result p241
+>>p241_009.wav
+result p241
+>>p242_001.wav
+result p242
+>>p242_002.wav
+result p276
+>>p242_003.wav
+result p276
+>>p242_004.wav
+result p237
+>>p242_005.wav
+result p237
+>>p242_006.wav
+result p242
+>>p242_007.wav
+result p242
+>>p242_008.wav
+result p276
+>>p242_009.wav
+result p242
+>>p243_001.wav
+result p243
+>>p243_002.wav
+result p237
+>>p243_003.wav
+result p237
+>>p243_004.wav
+result p237
+>>p243_005.wav
+result p227
+>>p243_006.wav
+result p237
+>>p243_007.wav
+result p271
+>>p243_008.wav
+result p232
+>>p243_009.wav
+result p237
+>>p244_001.wav
+result p244
+>>p244_002.wav
+result p249
+>>p244_003.wav
+result p255
+>>p244_004.wav
+result p249
+>>p244_005.wav
+result p268
+>>p244_006.wav
+result p268
+>>p244_007.wav
+result p277
+>>p244_008.wav
+result p268
+>>p244_009.wav
+result p268
+>>p245_001.wav
+result p245
+>>p245_002.wav
+result p227
+>>p245_003.wav
+result p227
+>>p245_004.wav
+result p227
+>>p245_005.wav
+result p271
+>>p245_006.wav
+result p271
+>>p245_007.wav
+result p271
+>>p245_008.wav
+result p271
+>>p245_009.wav
+result p276
+>>p246_001.wav
+result p246
+>>p246_002.wav
+result p285
+>>p246_003.wav
+result p237
+>>p246_004.wav
+result p227
+>>p246_005.wav
+result p237
+>>p246_006.wav
+result p232
+>>p246_007.wav
+result p237
+>>p246_008.wav
+result p237
+>>p246_009.wav
+result p276
+>>p247_001.wav
+result p247
+>>p247_002.wav
+result p237
+>>p247_003.wav
+result p271
+>>p247_004.wav
+result p271
+>>p247_005.wav
+result p271
+>>p247_006.wav
+result p271
+>>p247_007.wav
+result p237
+>>p247_008.wav
+result p271
+>>p247_009.wav
+result p232
+>>p248_001.wav
+result p248
+>>p248_002.wav
+result p268
+>>p248_003.wav
+result p268
+>>p248_004.wav
+result p268
+>>p248_005.wav
+result p268
+>>p248_006.wav
+result p268
+>>p248_007.wav
+result p268
+>>p248_008.wav
+result p268
+>>p248_009.wav
+result p268
+>>p249_001.wav
+result p249
+>>p249_002.wav
+result p268
+>>p249_003.wav
+result p249
+>>p249_004.wav
+result p249
+>>p249_005.wav
+result p268
+>>p249_006.wav
+result p249
+>>p249_007.wav
+result p249
+>>p249_008.wav
+result p249
+>>p249_009.wav
+result p268
+>>p250_001.wav
+result p250
+>>p250_002.wav
+result p268
+>>p250_003.wav
+result p268
+>>p250_004.wav
+result p268
+>>p250_005.wav
+result p268
+>>p250_006.wav
+result p268
+>>p250_007.wav
+result p268
+>>p250_008.wav
+result p268
+>>p250_009.wav
+result p268
+>>p251_001.wav
+result p251
+>>p251_002.wav
+result p271
+>>p251_003.wav
+result p271
+>>p251_004.wav
+result p227
+>>p251_005.wav
+result p271
+>>p251_006.wav
+result p271
+>>p251_007.wav
+result p232
+>>p251_008.wav
+result p271
+>>p251_009.wav
+result p271
+>>p252_001.wav
+result p252
+>>p252_002.wav
+result p276
+>>p252_003.wav
+result p232
+>>p252_004.wav
+result p271
+>>p252_005.wav
+result p227
+>>p252_006.wav
+result p252
+>>p252_007.wav
+result p232
+>>p252_008.wav
+result p227
+>>p252_009.wav
+result p232
+>>p253_001.wav
+result p253
+>>p253_002.wav
+result p268
+>>p253_003.wav
+result p268
+>>p253_004.wav
+result p268
+>>p253_005.wav
+result p268
+>>p253_006.wav
+result p268
+>>p253_007.wav
+result p268
+>>p253_008.wav
+result p268
+>>p253_009.wav
+result p268
+>>p254_001.wav
+result p254
+>>p254_002.wav
+result p271
+>>p254_003.wav
+result p271
+>>p254_004.wav
+result p237
+>>p254_005.wav
+result p237
+>>p254_006.wav
+result p271
+>>p254_007.wav
+result p271
+>>p254_008.wav
+result p271
+>>p254_009.wav
+result p271
+>>p255_001.wav
+result p255
+>>p255_002.wav
+result p268
+>>p255_003.wav
+result p227
+>>p255_004.wav
+result p271
+>>p255_005.wav
+result p271
+>>p255_006.wav
+result p249
+>>p255_007.wav
+result p271
+>>p255_008.wav
+result p255
+>>p255_009.wav
+result p249
+>>p256_001.wav
+result p256
+>>p256_002.wav
+result p232
+>>p256_003.wav
+result p271
+>>p256_004.wav
+result p271
+>>p256_005.wav
+result p271
+>>p256_006.wav
+result p271
+>>p256_007.wav
+result p271
+>>p256_008.wav
+result p271
+>>p256_009.wav
+result p271
+>>p257_001.wav
+result p257
+>>p257_002.wav
+result p268
+>>p257_003.wav
+result p255
+>>p257_004.wav
+result p255
+>>p257_005.wav
+result p232
+>>p257_006.wav
+result p268
+>>p257_007.wav
+result p268
+>>p257_008.wav
+result p249
+>>p257_009.wav
+result p271
+>>p258_001.wav
+result p258
+>>p258_002.wav
+result p237
+>>p258_003.wav
+result p237
+>>p258_004.wav
+result p237
+>>p258_005.wav
+result p237
+>>p258_006.wav
+result p237
+>>p258_007.wav
+result p237
+>>p258_008.wav
+result p237
+>>p258_009.wav
+result p237
+>>p259_001.wav
+result p259
+>>p259_002.wav
+result p276
+>>p259_003.wav
+result p271
+>>p259_004.wav
+result p227
+>>p259_005.wav
+result p227
+>>p259_006.wav
+result p271
+>>p259_007.wav
+result p271
+>>p259_008.wav
+result p271
+>>p259_009.wav
+result p271
+>>p260_001.wav
+result p260
+>>p260_002.wav
+result p271
+>>p260_003.wav
+result p271
+>>p260_004.wav
+result p227
+>>p260_005.wav
+result p237
+>>p260_006.wav
+result p232
+>>p260_007.wav
+result p237
+>>p260_008.wav
+result p271
+>>p260_009.wav
+result p237
+>>p261_001.wav
+result p261
+>>p261_002.wav
+result p268
+>>p261_003.wav
+result p268
+>>p261_004.wav
+result p268
+>>p261_005.wav
+result p268
+>>p261_006.wav
+result p271
+>>p261_007.wav
+result p261
+>>p261_008.wav
+result p268
+>>p261_009.wav
+result p283
+>>p262_001.wav
+result p262
+>>p262_002.wav
+result p268
+>>p262_003.wav
+result p268
+>>p262_004.wav
+result p268
+>>p262_005.wav
+result p255
+>>p262_006.wav
+result p255
+>>p262_007.wav
+result p255
+>>p262_008.wav
+result p268
+>>p262_009.wav
+result p255
+>>p263_001.wav
+result p263
+>>p263_002.wav
+result p263
+>>p263_003.wav
+result p263
+>>p263_004.wav
+result p263
+>>p263_005.wav
+result p237
+>>p263_006.wav
+result p263
+>>p263_007.wav
+result p263
+>>p263_008.wav
+result p263
+>>p263_009.wav
+result p237
+>>p264_001.wav
+result p264
+>>p264_002.wav
+result p264
+>>p264_003.wav
+result p268
+>>p264_004.wav
+result p268
+>>p264_005.wav
+result p268
+>>p264_006.wav
+result p268
+>>p264_007.wav
+result p268
+>>p264_008.wav
+result p275
+>>p264_009.wav
+result p275
+>>p265_001.wav
+result p265
+>>p265_002.wav
+result p271
+>>p265_003.wav
+result p265
+>>p265_004.wav
+result p265
+>>p265_005.wav
+result p249
+>>p265_006.wav
+result p237
+>>p265_007.wav
+result p237
+>>p265_008.wav
+result p237
+>>p265_009.wav
+result p237
+>>p266_001.wav
+result p266
+>>p266_002.wav
+result p268
+>>p266_003.wav
+result p268
+>>p266_004.wav
+result p268
+>>p266_005.wav
+result p268
+>>p266_006.wav
+result p268
+>>p266_007.wav
+result p268
+>>p266_008.wav
+result p283
+>>p266_009.wav
+result p249
+>>p267_001.wav
+result p267
+>>p267_002.wav
+result p268
+>>p267_003.wav
+result p268
+>>p267_004.wav
+result p268
+>>p267_005.wav
+result p268
+>>p267_006.wav
+result p229
+>>p267_007.wav
+result p283
+>>p267_008.wav
+result p268
+>>p267_009.wav
+result p271
+>>p268_001.wav
+result p268
+>>p268_002.wav
+result p268
+>>p268_003.wav
+result p268
+>>p268_004.wav
+result p268
+>>p268_005.wav
+result p268
+>>p268_006.wav
+result p268
+>>p268_007.wav
+result p268
+>>p268_008.wav
+result p268
+>>p268_009.wav
+result p268
+>>p269_001.wav
+result p269
+>>p269_002.wav
+result p249
+>>p269_003.wav
+result p268
+>>p269_004.wav
+result p268
+>>p269_005.wav
+result p268
+>>p269_006.wav
+result p268
+>>p269_007.wav
+result p268
+>>p269_008.wav
+result p249
+>>p269_009.wav
+result p268
+>>p270_001.wav
+result p270
+>>p270_002.wav
+result p276
+>>p270_003.wav
+result p237
+>>p270_004.wav
+result p227
+>>p270_005.wav
+result p227
+>>p270_006.wav
+result p227
+>>p270_007.wav
+result p237
+>>p270_008.wav
+result p271
+>>p270_009.wav
+result p237
+>>p271_001.wav
+result p271
+>>p271_002.wav
+result p271
+>>p271_003.wav
+result p271
+>>p271_004.wav
+result p271
+>>p271_005.wav
+result p271
+>>p271_006.wav
+result p271
+>>p271_007.wav
+result p271
+>>p271_008.wav
+result p271
+>>p271_009.wav
+result p271
+>>p272_001.wav
+result p272
+>>p272_002.wav
+result p276
+>>p272_003.wav
+result p276
+>>p272_004.wav
+result p276
+>>p272_005.wav
+result p249
+>>p272_006.wav
+result p227
+>>p272_007.wav
+result p237
+>>p272_008.wav
+result p276
+>>p272_009.wav
+result p227
+>>p273_001.wav
+result p273
+>>p273_002.wav
+result p268
+>>p273_003.wav
+result p268
+>>p273_004.wav
+result p255
+>>p273_005.wav
+result p255
+>>p273_006.wav
+result p268
+>>p273_007.wav
+result p268
+>>p273_008.wav
+result p268
+>>p273_009.wav
+result p249
+>>p274_001.wav
+result p274
+>>p274_002.wav
+result p268
+>>p274_003.wav
+result p268
+>>p274_004.wav
+result p268
+>>p274_005.wav
+result p268
+>>p274_006.wav
+result p268
+>>p274_007.wav
+result p268
+>>p274_008.wav
+result p249
+>>p274_009.wav
+result p268
+>>p275_001.wav
+result p275
+>>p275_002.wav
+result p275
+>>p275_003.wav
+result p275
+>>p275_004.wav
+result p275
+>>p275_005.wav
+result p268
+>>p275_006.wav
+result p275
+>>p275_007.wav
+result p275
+>>p275_008.wav
+result p268
+>>p275_009.wav
+result p268
+>>p276_001.wav
+result p276
+>>p276_002.wav
+result p276
+>>p276_003.wav
+result p276
+>>p276_004.wav
+result p276
+>>p276_005.wav
+result p276
+>>p276_006.wav
+result p237
+>>p276_007.wav
+result p276
+>>p276_008.wav
+result p276
+>>p276_009.wav
+result p276
+>>p277_001.wav
+result p277
+>>p277_002.wav
+result p276
+>>p277_003.wav
+result p268
+>>p277_004.wav
+result p268
+>>p277_005.wav
+result p276
+>>p277_006.wav
+result p268
+>>p277_007.wav
+result p249
+>>p277_008.wav
+result p277
+>>p277_009.wav
+result p277
+>>p278_001.wav
+result p278
+>>p278_002.wav
+result p285
+>>p278_003.wav
+result p285
+>>p278_004.wav
+result p276
+>>p278_005.wav
+result p276
+>>p278_006.wav
+result p276
+>>p278_007.wav
+result p276
+>>p278_008.wav
+result p275
+>>p278_009.wav
+result p249
+>>p279_001.wav
+result p279
+>>p279_002.wav
+result p268
+>>p279_003.wav
+result p279
+>>p279_004.wav
+result p279
+>>p279_005.wav
+result p255
+>>p279_006.wav
+result p268
+>>p279_007.wav
+result p279
+>>p279_008.wav
+result p279
+>>p279_009.wav
+result p279
+>>p280_001.wav
+result p280
+>>p280_002.wav
+result p268
+>>p280_003.wav
+result p268
+>>p280_004.wav
+result p268
+>>p280_005.wav
+result p268
+>>p280_006.wav
+result p229
+>>p280_007.wav
+result p229
+>>p280_008.wav
+result p283
+>>p280_009.wav
+result p271
+>>p281_001.wav
+result p281
+>>p281_002.wav
+result p249
+>>p281_003.wav
+result p249
+>>p281_004.wav
+result p268
+>>p281_005.wav
+result p277
+>>p281_006.wav
+result p276
+>>p281_007.wav
+result p268
+>>p281_008.wav
+result p249
+>>p281_009.wav
+result p277
+>>p282_001.wav
+result p282
+>>p282_002.wav
+result p276
+>>p282_003.wav
+result p276
+>>p282_004.wav
+result p237
+>>p282_005.wav
+result p276
+>>p282_006.wav
+result p237
+>>p282_007.wav
+result p237
+>>p282_008.wav
+result p276
+>>p282_009.wav
+result p276
+>>p283_001.wav
+result p283
+>>p283_002.wav
+result p283
+>>p283_003.wav
+result p283
+>>p283_004.wav
+result p283
+>>p283_005.wav
+result p283
+>>p283_006.wav
+result p283
+>>p283_007.wav
+result p283
+>>p283_008.wav
+result p283
+>>p283_009.wav
+result p268
+>>p284_001.wav
+result p284
+>>p284_002.wav
+result p227
+>>p284_003.wav
+result p271
+>>p284_004.wav
+result p284
+>>p284_005.wav
+result p237
+>>p284_006.wav
+result p232
+>>p284_007.wav
+result p232
+>>p284_008.wav
+result p271
+>>p284_009.wav
+result p237
+>>p285_001.wav
+result p285
+>>p285_002.wav
+result p285
+>>p285_003.wav
+result p285
+>>p285_004.wav
+result p285
+>>p285_005.wav
+result p285
+>>p285_006.wav
+result p285
+>>p285_007.wav
+result p237
+>>p285_008.wav
+result p285
+>>p285_009.wav
+result p276
+>>p286_001.wav
+result p286
+>>p286_002.wav
+result p227
+>>p286_003.wav
+result p286
+>>p286_004.wav
+result p237
+>>p286_005.wav
+result p276
+>>p286_006.wav
+result p237
+>>p286_007.wav
+result p271
+>>p286_008.wav
+result p286
+>>p286_009.wav
+result p232
+>>p287_001.wav
+result p287
+>>p287_002.wav
+result p232
+>>p287_003.wav
+result p227
+>>p287_004.wav
+result p227
+>>p287_005.wav
+result p247
+>>p287_006.wav
+result p268
+>>p287_007.wav
+result p271
+>>p287_008.wav
+result p271
+>>p287_009.wav
+result p271
+>>p288_001.wav
+result p288
+>>p288_002.wav
+result p255
+>>p288_003.wav
+result p268
+>>p288_004.wav
+result p255
+>>p288_005.wav
+result p268
+>>p288_006.wav
+result p268
+>>p288_007.wav
+result p227
+>>p288_008.wav
+result p268
+>>p288_009.wav
+result p268
+
+
+
+
