@@ -1,12 +1,10 @@
 import sqlite3 as lite
 import str_in_list as ls
 import math
-import tkinter as tk
     
 
 # Сравнение вектора признаков с базой
 def compare(feat_vect):
-    f = open("text.txt", 'a')
     # Считывание информации с базы, и запись её в массив
     db_feat_vect = []
     db_users = lite.connect("db_users.bd")     
@@ -22,6 +20,7 @@ def compare(feat_vect):
         distanse += [distance_between_elem_sizebook(db_feat_vect[i], feat_vect)]
     min_dist = distanse.index(min(distanse))        
     print("result", data[min_dist][0])
+    f = open("Result/e1_sp10_l16.txt", 'a')
     f.write("\nresult "+data[min_dist][0])
     f.close()
         

@@ -1,0 +1,181 @@
+
+result p225
+>>p225_001.wav
+result p225
+>>p225_002.wav
+result p225
+>>p225_003.wav
+result p225
+>>p225_004.wav
+result p225
+>>p225_005.wav
+result p225
+>>p225_006.wav
+result p225
+>>p225_007.wav
+result p225
+>>p225_008.wav
+result p225
+>>p225_009.wav
+result p226
+>>p226_001.wav
+result p226
+>>p226_002.wav
+result p226
+>>p226_003.wav
+result p226
+>>p226_004.wav
+result p226
+>>p226_005.wav
+result p226
+>>p226_006.wav
+result p226
+>>p226_007.wav
+result p226
+>>p226_008.wav
+result p226
+>>p226_009.wav
+result p227
+>>p227_001.wav
+result p227
+>>p227_002.wav
+result p227
+>>p227_003.wav
+result p227
+>>p227_004.wav
+result p227
+>>p227_005.wav
+result p227
+>>p227_006.wav
+result p227
+>>p227_007.wav
+result p227
+>>p227_008.wav
+result p227
+>>p227_009.wav
+result p234
+>>p228_001.wav
+result p225
+>>p228_002.wav
+result p228
+>>p228_003.wav
+result p230
+>>p228_004.wav
+result p228
+>>p228_005.wav
+result p228
+>>p228_006.wav
+result p228
+>>p228_007.wav
+result p230
+>>p228_008.wav
+result p228
+>>p228_009.wav
+result p230
+>>p229_001.wav
+result p229
+>>p229_002.wav
+result p229
+>>p229_003.wav
+result p230
+>>p229_004.wav
+result p229
+>>p229_005.wav
+result p229
+>>p229_006.wav
+result p230
+>>p229_007.wav
+result p229
+>>p229_008.wav
+result p229
+>>p229_009.wav
+result p230
+>>p230_001.wav
+result p230
+>>p230_002.wav
+result p230
+>>p230_003.wav
+result p230
+>>p230_004.wav
+result p230
+>>p230_005.wav
+result p230
+>>p230_006.wav
+result p230
+>>p230_007.wav
+result p230
+>>p230_008.wav
+result p230
+>>p230_009.wav
+result p231
+>>p231_001.wav
+result p231
+>>p231_002.wav
+result p231
+>>p231_003.wav
+result p231
+>>p231_004.wav
+result p231
+>>p231_005.wav
+result p231
+>>p231_006.wav
+result p231
+>>p231_007.wav
+result p231
+>>p231_008.wav
+result p231
+>>p231_009.wav
+result p225
+>>p232_001.wav
+result p225
+>>p232_002.wav
+result p232
+>>p232_003.wav
+result p225
+>>p232_004.wav
+result p225
+>>p232_005.wav
+result p232
+>>p232_006.wav
+result p232
+>>p232_007.wav
+result p232
+>>p232_008.wav
+result p232
+>>p232_009.wav
+result p234
+>>p233_001.wav
+result p233
+>>p233_002.wav
+result p230
+>>p233_003.wav
+result p230
+>>p233_004.wav
+result p233
+>>p233_005.wav
+result p233
+>>p233_006.wav
+result p233
+>>p233_007.wav
+result p233
+>>p233_008.wav
+result p234
+>>p233_009.wav
+result p234
+>>p234_001.wav
+result p234
+>>p234_002.wav
+result p234
+>>p234_003.wav
+result p234
+>>p234_004.wav
+result p234
+>>p234_005.wav
+result p234
+>>p234_006.wav
+result p234
+>>p234_007.wav
+result p234
+>>p234_008.wav
+result p234
+>>p234_009.wav
